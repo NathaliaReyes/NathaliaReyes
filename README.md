@@ -3,7 +3,7 @@
 <h3 align="center"><i>Welcome to my GitHub!</i></h3>
 
 <div align="center">
-<h3>👩 Nathalia Reyes | 💻 Back End Developer</h3>
+<h3>👩 Nathalia Reyes | 💻 Full Stack Developer</h3>
 </div>
 
 -------
@@ -11,7 +11,7 @@
 ## A little more about me... 
 
 <p><i>
-  I'm a Back End Developer. I'm a passionate, self-taught coder👩‍💻 and am currently studying Java more in-depth👁️. I'm dedicated to the art of learning and driven to 
+  I'm a Full Stack Developer. I'm a passionate, self-taught coder👩‍💻 and am currently studying Java more in-depth👁️. I'm dedicated to the art of learning and driven to 
   share knowledge with the widest audience possible🤝. My enthusiasm for technology and computers drives me to create innovative and efficient solutions. I'm 
   creative🎨 and perceptive🔭 with a hands-on approach to problem solving🚀. I'm excited about the prospect of gaining more experience and fearlessly taking on new 
   challenges that come my way💪. I find joy in coding and exploring new horizons. Outside the digital realm, I love hiking and engaging in outdoor activities!!🏕️🏔️
