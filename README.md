@@ -11,14 +11,14 @@
 ## A little more about me... 
 
 <p><i>
-  I'm a Full Stack Developer. I'm a passionate, self-taught coder👩‍💻 and am currently studying Java more in-depth👁️. I'm dedicated to the art of learning and driven to 
+  I'm a Full Stack Developer Student. I'm a passionate, self-taught coder👩‍💻 and am currently studying JavaScript more in-depth👁️. I'm dedicated to the art of learning and driven to 
   share knowledge with the widest audience possible🤝. My enthusiasm for technology and computers drives me to create innovative and efficient solutions. I'm 
   creative🎨 and perceptive🔭 with a hands-on approach to problem solving🚀. I'm excited about the prospect of gaining more experience and fearlessly taking on new 
   challenges that come my way💪. I find joy in coding and exploring new horizons. Outside the digital realm, I love hiking and engaging in outdoor activities!!🏕️🏔️
 </i></p>
  
 
-* 🌱 I’m currently learning **Java**
+* 🌱 I’m currently learning **JavaScript**
 * 📫 How to reach me: [silvianathaliareyes96@gmail.com](mailto:silvianathaliareyes96@gmail.com).
 * ⚡Fun fact: Fluent in three languages(EN-PT-ES) and always hungry for the next linguistic adventure! 🌏❤️
 
