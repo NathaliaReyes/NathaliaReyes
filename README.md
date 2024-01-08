@@ -3,7 +3,7 @@
 <h3 align="center"><i>Welcome to my GitHub!</i></h3>
 
 <div align="center">
-<h3>👩 Nathalia Reyes | 💻 Full Stack Developer</h3>
+<h3>👩‍💻 Nathalia Reyes | 💻 Full Stack Developer</h3>
 </div>
 
 -------
