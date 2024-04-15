@@ -11,12 +11,12 @@
 ## A little more about me... 
 
 <p><i>
-  I'm a Full Stack Developer. I'm a passionate, self-taught coder👩‍💻 and am currently studying JavaScript more in-depth👁️. 
+  Full Stack Developer. I'm a passionate, self-taught coder👩‍💻 and am currently studying React more in-depth👁️. 
 I'm creative🎨 and perceptive🔭 with a hands-on approach to problem solving🚀. I find joy in coding and exploring new horizons. Outside the digital realm, I love hiking and engaging in outdoor activities!!🏕️🏔️
 </i></p>
  
 
-* 🌱 I’m currently learning **JavaScript**
+* 🌱 I’m currently learning **React**
 * 📫 How to reach me: [snrvdevelopment@gmail.com](mailto:snrvdevelopment@gmail.com).
 * ⚡Fun fact: Fluent in three languages(EN-PT-ES) and always hungry for the next linguistic adventure! 🌏❤️
 
