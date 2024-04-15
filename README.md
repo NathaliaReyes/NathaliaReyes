@@ -17,7 +17,7 @@ I'm creative🎨 and perceptive🔭 with a hands-on approach to problem solving�
  
 
 * 🌱 I’m currently learning **JavaScript**
-* 📫 How to reach me: [silvianathaliareyes96@gmail.com](mailto:snrvdevelopment@gmail.com).
+* 📫 How to reach me: [snrvdevelopment@gmail.com](mailto:snrvdevelopment@gmail.com).
 * ⚡Fun fact: Fluent in three languages(EN-PT-ES) and always hungry for the next linguistic adventure! 🌏❤️
 
 -------
